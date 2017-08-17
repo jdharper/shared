@@ -1,0 +1,15 @@
+*~
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+CMakeCache.txt
+*.cmake
+**/CmakeFiles/*
+**/Debug/*
+**/Debug/*
+**/x64/*
+
